@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Transaction Demo</string>
+    <string name="load_more_txt">loading...</string>
+    <string name="load_more_no_more">no more data</string>
+    <string name="submit">Submit</string>
+    <string name="payHis">PayHis</string>
+    <string name="goBack">Goback</string>
+</resources>
